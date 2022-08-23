@@ -1,0 +1,3 @@
+omnivorous = []
+
+vegetarian = []
